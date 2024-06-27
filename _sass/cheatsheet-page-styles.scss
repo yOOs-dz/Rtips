@@ -1,0 +1,17 @@
+#cheatsheet {
+  code {
+    unicode-bidi: normal;
+  }
+
+  .highlight {
+    direction: rtl;
+  }
+
+  .language-ruby .highlight {
+    direction: ltr;
+  }
+
+  .language-ruby + .highlighter-rouge .highlight {
+    direction: ltr;
+  }
+}

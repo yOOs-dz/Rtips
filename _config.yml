@@ -25,12 +25,12 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: yOOs-dz/arabic-jekyll
+  github: a3ammar/arabic-jekyll
   instagram:
   linkedin:
   pinterest:
   rss: # ضع أي قيمة هنا لتظهر أيقونة RSS
-  twitter: jekyllrb
+  twitter: a3ammar
   stackoverflow: # هويتك في stackoverflow مثلا: "users/50476/bart-kiers"
   youtube: # إما channel/<عنوان_قناتك_الطويل> أو user/<اسم-مستخدمك>
   googleplus: # رقم التعريف عندما تزور هويتك (كل ما يتبع plus.google.com/)
@@ -75,7 +75,7 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-plugins:
+gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 

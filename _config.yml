@@ -25,12 +25,12 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: a3ammar/arabic-jekyll
+  github: yOOs-dz/Rtips
   instagram:
   linkedin:
   pinterest:
   rss: # ضع أي قيمة هنا لتظهر أيقونة RSS
-  twitter: a3ammar
+  twitter: yoostech
   stackoverflow: # هويتك في stackoverflow مثلا: "users/50476/bart-kiers"
   youtube: # إما channel/<عنوان_قناتك_الطويل> أو user/<اسم-مستخدمك>
   googleplus: # رقم التعريف عندما تزور هويتك (كل ما يتبع plus.google.com/)
@@ -48,7 +48,7 @@ google_analytics:
 url:
 
 # إذا كانت المدونة خاصة للصفحات المشاريع في GitHub (http://yourusername.github.io/repository-name مثلاً) عدل هذا المتغير ليطابق اسم المشروع
-baseurl: "/arabic-jekyll"
+baseurl: "/Rtips"
 
 
 #

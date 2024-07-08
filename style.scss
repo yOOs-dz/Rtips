@@ -32,9 +32,9 @@ body {
 }
 
 .container {
-  margin: auto;
-  max-width: 1440px;
-  padding: 10px;
+  margin: 0 auto;
+  max-width: 740px;
+  padding: 0 10px;
   width: 100%;
 }
 
@@ -242,13 +242,18 @@ nav {
 // .main
 //
 
+#main {
+  flex: 1;
+}
 
+.posts > .post {
+  padding-bottom: 2em;
+  border-bottom: 1px solid $lightGray;
 }
 
 .posts > .post:last-child {
   padding-bottom: 1em;
   border-bottom: none;
-  padding-right: 50px;
 }
 
 .post {

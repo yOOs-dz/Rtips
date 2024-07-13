@@ -2,9 +2,9 @@
 layout: page
 permalink: /markdown/
 id: cheatsheet
-title: مدونتـ.ي
+title:  قصتي مع منصة R
 ---
-# قصتي مع منصة R#
+
 
 ## كيف بدأت :##
 

@@ -60,11 +60,15 @@
     
 <!--    <img src="https://raw.githubusercontent.com/yOOs-dz/Rtips/gh-pages-test/images/banner_v1.jpg" > -->
     
-    <div id="main" role="main" class="container {% if page.class %}{{ page.class }}{% endif %}">
-      {{ site.banner }}
-    </div>
+    
     
     <div id="main" role="main" class="container {% if page.class %}{{ page.class }}{% endif %}">
+      <div id="main" role="main" class="container {% if page.class %}{{ page.class }}{% endif %}">
+      <!--{{ site.banner }}-->
+        {% if site.banner %}
+          <a href="{{ site.baseurl }}/" class="site-banner"><img src="{{ site.banner }}" /></a>
+        {% endif %}
+      </div>
       {{ content }}
     </div>
 

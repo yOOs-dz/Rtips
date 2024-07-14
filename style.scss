@@ -158,7 +158,7 @@ blockquote {
 .masthead {
   padding: 20px 0;
   background-color: LightYellow ;
-  border-bottom: 1px solid $DarkOrange;
+  border-bottom: 1px solid $darkOrange;
 
   @include mobile {
     text-align: center;

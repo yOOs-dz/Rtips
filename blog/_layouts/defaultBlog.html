@@ -47,7 +47,7 @@
           
           <nav>
             <a href="{{ site.baseurl }}{% post_url 2024-06-21-Introduction1 %}">تعلم R</a>
-            <a href="{{ site.baseurl }}/markdown">المدونة</a>
+            <a href="{{ site.baseurl1 }}/">المدونة</a> <!-- رابط جزء الموقع الخاص بالمدونة و قصص -->
             <a href="https://github.com/yOOs-dz/Rtips">مصدر Github</a>
 
           </nav>
@@ -63,7 +63,7 @@
     
     
     <div id="main" role="main" class="container {% if page.class %}{{ page.class }}{% endif %}">
-      {{ content }}
+      {{ site.baseurl1 }}{{ content }}
     </div>
 
     <div class="wrapper-footer">

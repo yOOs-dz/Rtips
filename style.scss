@@ -32,7 +32,7 @@ body {
 }
 
 .container {
-  margin: 0 auto;
+  margin: 0 0;
   max-width: 1000px;
   padding: 0 0px;
   width: 100%;
@@ -153,6 +153,7 @@ blockquote {
 
 .wrapper-masthead {
   margin-bottom: 50px;
+  margin-left:0px;
 }
 
 .masthead {

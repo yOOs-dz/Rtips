@@ -3,6 +3,20 @@ layout: default
 ---
 
 <div class="posts">
+  {% for post in site.posts reversed %}
+  <div class="entry" style="padding-left : 10px ; float: right" > {{ post.img }}
+  </div>
+    <article class="post">
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <div class="entry">
+        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.description }}
+      </div>
+    </article>
+  {% endfor %}
+</div>
+
+<!-- OLD SETTINGS
+<div class="posts">
   {% for post in site.posts %}
     <article class="post">
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
@@ -13,3 +27,4 @@ layout: default
     </article>
   {% endfor %}
 </div>
+-->

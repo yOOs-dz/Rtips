@@ -2,6 +2,7 @@
 layout: post
 title: مدخل إلى منصة آر
 description: معلومات أولية عن آر ، عن هيكل عمله و تنظيم بيئة العمل فيه 
+img: <img src="https://raw.githubusercontent.com/yOOs-dz/Rtips/main/images/logo_Rtips.png" width='100' height= auto/>
 ---
 
 

@@ -31,7 +31,6 @@ Thank you for your interest in contributing to Bayany initiative! All your contr
 
 **Arabic Section**
 
-```markdown
 ## المساهمة في مشروع بياني
 
 ### مقدمة

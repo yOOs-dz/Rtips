@@ -26,7 +26,7 @@ body {
   min-height: 100%;
   flex-direction: column;
   background: $white;
-  font: 19px/1.4 $base-font-family;
+  font: 25px/1.4 $base-font-family;
   line-height: 1.6;
   color: $darkGray;
 }
@@ -337,7 +337,7 @@ nav {
   }
 
   .read-more {
-    font-size: 20px;
+    font-size: 15px;
   }
 }
 

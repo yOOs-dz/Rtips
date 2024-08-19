@@ -57,7 +57,7 @@ Thank you for your interest in contributing to Bayany initiative! All your contr
 * **نسخ المستودع:** `git clone https://github.com/yOOs-dz/bayany.git`
 * **إعداد بيئة التطوير باستعمال جيت:** [https://www.youtube.com/watch?v=r8jQ9hVA2qs]
 
-<div align=”center”>
+<div style="text-align:center">
    <a href="http://www.youtube.com/watch?feature=player_embedded&v=r8jQ9hVA2qs?si=q_ZNAyx0-t5TBXHD
    " target="_blank"><img src="https://i.ytimg.com/vi_webp/r8jQ9hVA2qs/maxresdefault.webp" 
    alt="GitHub for beginners: What is Git?" width="640" height="360" /></a>

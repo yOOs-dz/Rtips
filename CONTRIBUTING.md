@@ -60,4 +60,4 @@ Thank you for your interest in contributing to Bayany initiative! All your contr
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=r8jQ9hVA2qs?si=q_ZNAyx0-t5TBXHD
 " target="_blank"><img src="https://i.ytimg.com/vi_webp/r8jQ9hVA2qs/maxresdefault.webp" 
-alt="GitHub for beginners: What is Git?" width="640" height="480" border="10" /></a>
+alt="GitHub for beginners: What is Git?" width="640" height="360" /></a>

@@ -1,4 +1,7 @@
-## مشروع بياني
+## مشروع بياني - 
+## Bayany Project
+
+![بياني](/images/banner_v1.jpg "مشروع بياني")
 
 مرحبًا بكم في **بياني**، مشروع يهدف إلى توثيق وتعريف البرامج المعلوماتية الحرة والمفتوحة المصدر التي تختص بتحليل المعطيات. يهدف هذا الموقع إلى توفير منصة شاملة تجمع بين المعلومات الأساسية، والدروس التوضيحية، والتطبيقات العملية، والفهارس المتخصصة في مجال تحليل البيانات.
 
@@ -22,23 +25,19 @@
 هناك عدة طرق يمكنك من خلالها المساهمة في مشروع بياني:
 
 - **اقتراح أفكار:** إذا كانت لديك أفكار لميزات جديدة أو تحسينات، يمكنك مشاركتها في منتدى النقاش لدينا. [انضم إلى النقاش هنا](https://github.com/yOOs-dz/bayany/discussions/1).
-- **إنشاء طلبات سحب:** إذا كنت ترغب في المساهمة بالرمز البرمجي، يرجى اتباع الخطوات الموضحة في ملف [CONTRIBUTING.md](https://github.com/yOOs-dz/bayany/blob/main/CONTRIBUTING.md).
-- **المساهمات في المحتوى:** ساعدنا في تحسين المحتوى من خلال إنشاء دروس جديدة، توسيع الدروس الحالية، أو تحسين التوثيق.
-
-للحصول على إرشادات مفصلة حول كيفية المساهمة، يرجى الاطلاع على ملف [CONTRIBUTING.md](https://github.com/yOOs-dz/bayany/blob/main/CONTRIBUTING.md).
+- **المساهمة في الكتابة البرمجية عبر طلبات السحب -Pull requests :** إذا كنت ترغب في المساهمة بالكتابة البرمجية، سواءا [للمستودع](https://github.com/yOOs-dz/bayany) أو [لموقع الويب](https://yoos-dz.github.io/bayany)، يرجى اتباع الخطوات الموضحة في ملف [CONTRIBUTING.md](https://github.com/yOOs-dz/bayany/blob/main/CONTRIBUTING.md).
+- **المساهمات في المحتوى:** ساعدنا في تحسين المحتوى من خلال إنشاء دروس جديدة، توسيع الدروس الحالية، أو تحسين التوثيق عبر نفس الروابط في النقطة السابقة أعلاه.
 
 تساعد مساهماتك في جعل مشروع بياني أفضل وأكثر فائدة للجميع. شكرًا لك على كونك جزءًا من مجتمعنا!
 
 
 ## عرفان و تقدير
 
-يستخدم هذا المشروع قالب [Arabic Jekyll Template](https://github.com/a3ammar/arabic-jekyll) الذي أنشأه [a3ammar](https://github.com/a3ammar).
+يستخدم هذا المشروع قالب [Arabic Jekyll Template](https://github.com/a3ammar/arabic-jekyll) المنشئ من قبل المطور [a3ammar](https://github.com/a3ammar).
 
 القالب مرخص بموجب [رخصة MIT](https://opensource.org/licenses/MIT).
 
-نقدر جهود المؤلف الأصلي، التي وفرت أساسًا قويًا لهذا المشروع.
-
-## Bayany Project
+ و لذا نقدر جهود المؤلف الأصلي التي وفرت أساسًا قويًا لهذا المشروع و له كل العرفان.
 
 Welcome to **Bayany**, a project aimed at documenting and introducing free and open-source software dedicated to data analysis. This site aims to provide a comprehensive platform that brings together basic information, explanatory tutorials, practical applications, and specialized indexes in the field of data analysis.
 
@@ -64,7 +63,7 @@ We welcome contributions to the Bayany project and appreciate your interest in i
 There are several ways you can contribute to the Bayany project:
 
 - **Suggesting Ideas:** If you have ideas for new features or improvements, you can share them in our discussion forum. [Join the discussion here](https://github.com/yOOs-dz/bayany/discussions/1).
-- **Creating Pull Requests:** If you’d like to contribute code, please follow the steps outlined in our [CONTRIBUTING.md](https://github.com/yOOs-dz/bayany/blob/main/CONTRIBUTING.md) file.
+- **Creating Pull Requests:** If you’d like to contribute to the [repository](https://github.com/yOOs-dz/bayany/) or even to the [website](https://yoos-dz.github.io/bayany) codes, please follow the general steps outlined in our [CONTRIBUTING.md](https://github.com/yOOs-dz/bayany/blob/main/CONTRIBUTING.md) file.
 - **Content Contributions:** Help us enhance our content by creating new tutorials, expanding existing ones, or improving the documentation.
 
 For detailed guidelines on how to contribute, please refer to our [CONTRIBUTING.md](https://github.com/yOOs-dz/bayany/blob/main/CONTRIBUTING.md) file.
@@ -74,7 +73,7 @@ Your contributions help make Bayany better and more useful for everyone. Thank y
 
 ## Credits
 
-This project is built using the [Arabic Jekyll Template](https://github.com/a3ammar/arabic-jekyll) by [a3ammar](https://github.com/a3ammar). 
+This project is built using the [Arabic Jekyll Template](https://github.com/a3ammar/arabic-jekyll) by the developper [a3ammar](https://github.com/a3ammar). 
 
 The Arabic Jekyll Template is licensed under the [MIT License](https://opensource.org/licenses/MIT). 
 

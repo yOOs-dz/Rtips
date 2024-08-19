@@ -1,4 +1,3 @@
-**English Section**
 
 ## Contributing to Bayany
 
@@ -29,7 +28,6 @@ Thank you for your interest in contributing to Bayany initiative! All your contr
 * **Cloning the repository:** `git clone https://github.com/yOOs-dz/Bayany.git`
 * **Setting up the development environment using Git:** [https://www.youtube.com/watch?v=r8jQ9hVA2qs]
 
-**Arabic Section**
 
 ## المساهمة في مشروع بياني
 
@@ -53,8 +51,10 @@ Thank you for your interest in contributing to Bayany initiative! All your contr
 
 ### دليل الأسلوب
 * **أسلوب الكود:** التزم بأسلوب الكود الموجود في المشروع.
-* **ماركدون:** استخدم صيغة ماركدون القياسية لكتابة التوثيق.
+* **ماركدون:** استخدم صيغة ماركدون القياسية لكتابة التوثيق. من أجل التحرير باللغة العربية على ماركداون ، يمكن الاعتماد على هذه [الصفحة](https://a3ammar.github.io/arabic-jekyll/markdown/) للمطور [a3ammar](https://github.com/a3ammar)
 
 ### البدء
 * **نسخ المستودع:** `git clone https://github.com/yOOs-dz/bayany.git`
 * **إعداد بيئة التطوير باستعمال جيت:** [https://www.youtube.com/watch?v=r8jQ9hVA2qs]
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r8jQ9hVA2qs?si=q_ZNAyx0-t5TBXHD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

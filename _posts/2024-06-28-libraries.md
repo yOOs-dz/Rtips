@@ -2,7 +2,7 @@
 layout: post
 title: مكتبات آر
 description: هنا بعض المعلومات الأساسية حول المكتبة على آر
-img: <img src="https://raw.githubusercontent.com/yOOs-dz/Rtips/gh-pages-test2/images/logo_Rtips.png" width='100' height= auto/>
+img: <img src="https://raw.githubusercontent.com/yOOs-dz/bayany/main//images/logo_Rtips.png" width='100' height= auto/>
 ---
 ## مدخل
 تعتبر كل مكتبة حزمة معلومات مكونة من مجموعة من التعليمات لغرض ما و كذا مجموعة من المعطيات إضافة إلى قاعدة منصة آر و التي ```R-base``` و التي تحوي التعليمات البرمجمية الأساسية للغة آر و كذا معطيات أخرى.

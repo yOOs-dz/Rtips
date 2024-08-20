@@ -17,3 +17,11 @@
     <meta property="og:title" content="{{ page.title }}">
     <meta property="twitter:title" content="{{ page.title }}">
     {% endif %}
+
+    {% if page.image %}
+    <meta property="og:image" content="{{page.image}}" />
+    <meta name="twitter:image" content="{{page.image}}" />
+    {% else %}
+    <meta property="og:image" content="{{site.banner}}" />
+    <meta name="twitter:image" content="{{site.banner}}" />
+  {% endif %}

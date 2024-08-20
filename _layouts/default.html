@@ -51,7 +51,15 @@
     
     <img src="{{site.banner}}" width='1200' height= auto/>
     
-    
+    <div>
+      <article class="page">
+        <h1><a href="{{ site.blog }}{{ page.url }}">{{ page.title }}</a></h1>
+
+          <div class="entry">
+            {{ page.content }}
+          </div>
+      </article>
+    </div>
     
     <div id="main" role="main" class="container {% if page.class %}{{ page.class }}{% endif %}">
       {{ content }}

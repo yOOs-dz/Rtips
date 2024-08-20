@@ -26,7 +26,7 @@ Thank you for your interest in contributing to Bayany initiative! All your contr
 
 ### Getting Started
 * **Cloning the repository:** `git clone https://github.com/yOOs-dz/Bayany.git`
-* **Setting up the development environment using Git:** [https://www.youtube.com/watch?v=r8jQ9hVA2qs]
+* **Setting up the development environment using Git:** For those who have not used Git yet, please, find below this explanatory video by GitHub [https://www.youtube.com/watch?v=r8jQ9hVA2qs]
 
 
 ## المساهمة في مشروع بياني
@@ -55,7 +55,7 @@ Thank you for your interest in contributing to Bayany initiative! All your contr
 
 ### البدء
 * **نسخ المستودع:** `git clone https://github.com/yOOs-dz/bayany.git`
-* **إعداد بيئة التطوير باستعمال جيت:** [https://www.youtube.com/watch?v=r8jQ9hVA2qs]
+* **إعداد بيئة التطوير باستعمال جيت:** بالنسبة لمن لم يجد بعد استعمال برنامج جيت ، ستجدون أسفله هذا الفيديو التوضيحي ن جيتهاب [https://www.youtube.com/watch?v=r8jQ9hVA2qs]
 
 <div style="text-align:center">
    <a href="http://www.youtube.com/watch?feature=player_embedded&v=r8jQ9hVA2qs?si=q_ZNAyx0-t5TBXHD

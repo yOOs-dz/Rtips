@@ -39,7 +39,7 @@
           <nav>
             <a href="{{ site.baseurl }}{% post_url 2024-06-21-Introduction1 %}">تعلم R</a> <!-- تحويله إلى صفحة تجتوي على أهم المحاور الرئيسية في وقت أول ثم تحويله إلى قائمة عمودية بعد ذلك -->
             <a href="https://yOOs-dz.github.io/bayanyblog">صفحة المدونة</a>            
-            <a href="https://github.com/yOOs-dz/Rtips">مصدر Github</a>
+            <a href="https://github.com/yOOs-dz/bayany">مصدر Github</a>
 
           </nav>
         </header>
@@ -51,15 +51,7 @@
     
     <img src="{{site.banner}}" width='1200' height= auto/>
     
-    <div>
-      <article class="page">
-        <h1><a href="{{ site.blog }}{{ page.url }}">{{ page.title }}</a></h1>
-
-          <div class="entry">
-            {{ page.content }}
-          </div>
-      </article>
-    </div>
+    
     
     <div id="main" role="main" class="container {% if page.class %}{{ page.class }}{% endif %}">
       {{ content }}

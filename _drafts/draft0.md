@@ -2,7 +2,7 @@
 layout: post
 title: مدخل إلى منصة آر - مثال
 description: معلومات أولية عن آر ، عن هيكل عمله و تنظيم بيئة العمل فيه 
-img: <img src="https://raw.githubusercontent.com/yOOs-dz/bayany/main/images/logo_Rtips.png" width='100' height= auto/>
+img: <img src="https://raw.githubusercontent.com/yOOs-dz/bayany.github.io/main/images/logo_Rtips.png" width='100' height= auto/>
 ---
 
 
